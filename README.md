@@ -1,5 +1,9 @@
 # Wordle
 
+
+https://github.com/user-attachments/assets/f6daf83c-a453-4cae-a580-22b35caf84fb
+
+
 Run the project from the folder with:
 
 ```bash
